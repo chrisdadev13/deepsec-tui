@@ -4,18 +4,20 @@
 
 ## Demo
 
-<img width="1508" height="867" alt="deepsec-tui dashboard showing findings and project status" src="https://github.com/user-attachments/assets/4de57c5b-be3a-443f-a7a4-3ece78783bac" />
+<img width="1508" height="867" alt="Screenshot 2026-05-18 at 3 18 09 PM" src="https://github.com/user-attachments/assets/83405da6-db37-43cf-ba62-e2fec036de15" />
+
 
 <details>
 <summary>More screenshots</summary>
 
 ### Process Flow
 
-<img width="1767" height="1029" alt="deepsec-tui finding details view with vulnerability context" src="https://github.com/user-attachments/assets/599c9ebf-3df2-4c3c-9b15-bb518b0ebc20" />
+<img width="1767" height="1029" alt="Screenshot 2026-05-18 at 4 15 38 PM" src="https://github.com/user-attachments/assets/f2c88192-9c16-42e0-a6e5-31e5d59f02e9" />
+
 
 ### Finding Details
 
-<img width="1765" height="1028" alt="deepsec-tui action dialog for running deepsec workflows" src="https://github.com/user-attachments/assets/6fa1520a-9b96-44ee-8d49-fbf51cdd313b" />
+<img width="1765" height="1028" alt="Screenshot 2026-05-18 at 4 15 12 PM" src="https://github.com/user-attachments/assets/0a3f3c70-f65a-45f7-8dfb-4b42c57137f2" />
 
 </details>
 
