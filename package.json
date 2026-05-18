@@ -1,0 +1,25 @@
+{
+  "name": "deepsec-tui",
+  "module": "src/index.tsx",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun run --watch src/index.tsx",
+    "typecheck": "tsc --noEmit",
+    "build": "bun build --compile src/index.tsx --outfile dist/deepsec-tui",
+    "package": "bun run typecheck && bun run build"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.2",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@opentui/core": "^0.2.10",
+    "@opentui/react": "^0.2.10",
+    "react": "^19.2.6",
+    "react-router": "^7.15.1"
+  }
+}
